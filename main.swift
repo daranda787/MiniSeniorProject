@@ -1,5 +1,1 @@
-var form: some View {
-    Form{
-        Text("Hello World").padding()
-    }
-}
+print("We are running swift!")
